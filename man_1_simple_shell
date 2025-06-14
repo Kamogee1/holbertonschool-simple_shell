@@ -1,27 +1,10 @@
-.TH hsh 1 "June 2025" "0.1" "Simple Shell Manual"
+.TH Man page for a simple shell project
 
-.SH NAME
-hsh \- simple shell, command line interpreter
+.SH NAME shell
 
 .SH SYNOPSIS
-.B hsh
-.RI [ command ]
 
-.SH DESCRIPTION
-hsh is a simple UNIX shell that can run commands and interpret input both interactively and non-interactively.
+.SH DESCRITION
 
-.SH OPTIONS
-The hsh shell has no options.
-
-.SH COMMANDS
-The following built-in commands are supported:
-.TP
-.B exit
-Exit the shell.
-
-.SH EXAMPLES
-.B ./hsh
-Starts the shell.
-
-.SH AUTHOR
-Written by Kamogelo Modise.
+.PP
+take commands from a user and execute them in the system
